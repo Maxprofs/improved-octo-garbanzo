@@ -33,3 +33,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+        improved-octo-garbanzo/nRF-Command-Line-Tools_9_8_1_OSX.tar
+      
